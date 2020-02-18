@@ -131,12 +131,16 @@ h4 {
 
 /********************************* FOOTER *********************************/
 
-.footer {
-  background-color: #ffcccc;
+footer {
+  background-color: #333333;
   padding: 20px 0;
   text-align: center;
   height: 50px;
   flex-shrink: 0;
+}
+
+.footer-header {
+  color: white;
 }
 
 /********************************* LANDING PAGE *********************************/
